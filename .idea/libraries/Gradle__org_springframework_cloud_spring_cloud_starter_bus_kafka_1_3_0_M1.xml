@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.cloud:spring-cloud-starter-bus-kafka:1.3.0.M1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-bus-kafka/1.3.0.M1/f51b72511ddd21f5253fc59a939ef7e351ec990f/spring-cloud-starter-bus-kafka-1.3.0.M1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-starter-bus-kafka/1.3.0.M1/42bfb76bf4a2e08bdc7e29b906eee7bc9a546f56/spring-cloud-starter-bus-kafka-1.3.0.M1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

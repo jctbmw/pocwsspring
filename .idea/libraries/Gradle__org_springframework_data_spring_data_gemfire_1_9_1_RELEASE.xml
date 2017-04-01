@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.data:spring-data-gemfire:1.9.1.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-gemfire/1.9.1.RELEASE/c4d3f384a72a5d3703c221a30c1cb598a60c1d5b/spring-data-gemfire-1.9.1.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-gemfire/1.9.1.RELEASE/b903fd6c12499a146e8e73d5498a83f5f4aa4987/spring-data-gemfire-1.9.1.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

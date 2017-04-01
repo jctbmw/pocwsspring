@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demoboot/demoboot.iml" filepath="$PROJECT_DIR$/demoboot/demoboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoboot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/demoboot_main.iml" group="demoboot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/demoboot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/demoboot_test.iml" group="demoboot" />
+      <module fileurl="file://$PROJECT_DIR$/pocwsspring.iml" filepath="$PROJECT_DIR$/pocwsspring.iml" />
+    </modules>
+  </component>
+</project>
